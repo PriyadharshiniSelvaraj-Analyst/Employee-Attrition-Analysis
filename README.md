@@ -126,11 +126,10 @@ This project demonstrates how Excel and Power BI can be used together to transfo
 
 ## 👩‍💻 Author
 
-**Your Name**  
+**Priyadharshini S.**  
 *Aspiring Data Analyst | Excel | Power BI*
 
-- 🌐 GitHub: [Your GitHub Profile](https://github.com/)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/priyadharshini-selvaraj-09a030235)
 
 ---
 
